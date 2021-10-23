@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/thirdchallenge/static/css/main.6d6876cb.chunk.css",
+    "main.css": "/thirdchallenge/static/css/main.751dbe08.chunk.css",
     "main.js": "/thirdchallenge/static/js/main.d44cfd85.chunk.js",
     "main.js.map": "/thirdchallenge/static/js/main.d44cfd85.chunk.js.map",
     "runtime-main.js": "/thirdchallenge/static/js/runtime-main.5156548e.js",
@@ -12,14 +12,14 @@
     "static/js/3.acde1857.chunk.js.map": "/thirdchallenge/static/js/3.acde1857.chunk.js.map",
     "index.html": "/thirdchallenge/index.html",
     "static/css/2.d8371ded.chunk.css.map": "/thirdchallenge/static/css/2.d8371ded.chunk.css.map",
-    "static/css/main.6d6876cb.chunk.css.map": "/thirdchallenge/static/css/main.6d6876cb.chunk.css.map",
+    "static/css/main.751dbe08.chunk.css.map": "/thirdchallenge/static/css/main.751dbe08.chunk.css.map",
     "static/js/2.c3efca16.chunk.js.LICENSE.txt": "/thirdchallenge/static/js/2.c3efca16.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5156548e.js",
     "static/css/2.d8371ded.chunk.css",
     "static/js/2.c3efca16.chunk.js",
-    "static/css/main.6d6876cb.chunk.css",
+    "static/css/main.751dbe08.chunk.css",
     "static/js/main.d44cfd85.chunk.js"
   ]
 }
