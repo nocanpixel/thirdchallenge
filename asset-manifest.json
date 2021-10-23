@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/thirdchallenge/static/css/main.751dbe08.chunk.css",
-    "main.js": "/thirdchallenge/static/js/main.d44cfd85.chunk.js",
-    "main.js.map": "/thirdchallenge/static/js/main.d44cfd85.chunk.js.map",
-    "runtime-main.js": "/thirdchallenge/static/js/runtime-main.5156548e.js",
-    "runtime-main.js.map": "/thirdchallenge/static/js/runtime-main.5156548e.js.map",
-    "static/css/2.d8371ded.chunk.css": "/thirdchallenge/static/css/2.d8371ded.chunk.css",
-    "static/js/2.c3efca16.chunk.js": "/thirdchallenge/static/js/2.c3efca16.chunk.js",
-    "static/js/2.c3efca16.chunk.js.map": "/thirdchallenge/static/js/2.c3efca16.chunk.js.map",
-    "static/js/3.acde1857.chunk.js": "/thirdchallenge/static/js/3.acde1857.chunk.js",
-    "static/js/3.acde1857.chunk.js.map": "/thirdchallenge/static/js/3.acde1857.chunk.js.map",
+    "main.css": "/thirdchallenge/static/css/main.38819174.chunk.css",
+    "main.js": "/thirdchallenge/static/js/main.635d0ba6.chunk.js",
+    "main.js.map": "/thirdchallenge/static/js/main.635d0ba6.chunk.js.map",
+    "runtime-main.js": "/thirdchallenge/static/js/runtime-main.5f7fb7fb.js",
+    "runtime-main.js.map": "/thirdchallenge/static/js/runtime-main.5f7fb7fb.js.map",
+    "static/css/2.f1a90855.chunk.css": "/thirdchallenge/static/css/2.f1a90855.chunk.css",
+    "static/js/2.e03c7de5.chunk.js": "/thirdchallenge/static/js/2.e03c7de5.chunk.js",
+    "static/js/2.e03c7de5.chunk.js.map": "/thirdchallenge/static/js/2.e03c7de5.chunk.js.map",
+    "static/js/3.23c5fd86.chunk.js": "/thirdchallenge/static/js/3.23c5fd86.chunk.js",
+    "static/js/3.23c5fd86.chunk.js.map": "/thirdchallenge/static/js/3.23c5fd86.chunk.js.map",
     "index.html": "/thirdchallenge/index.html",
-    "static/css/2.d8371ded.chunk.css.map": "/thirdchallenge/static/css/2.d8371ded.chunk.css.map",
-    "static/css/main.751dbe08.chunk.css.map": "/thirdchallenge/static/css/main.751dbe08.chunk.css.map",
-    "static/js/2.c3efca16.chunk.js.LICENSE.txt": "/thirdchallenge/static/js/2.c3efca16.chunk.js.LICENSE.txt"
+    "static/css/2.f1a90855.chunk.css.map": "/thirdchallenge/static/css/2.f1a90855.chunk.css.map",
+    "static/css/main.38819174.chunk.css.map": "/thirdchallenge/static/css/main.38819174.chunk.css.map",
+    "static/js/2.e03c7de5.chunk.js.LICENSE.txt": "/thirdchallenge/static/js/2.e03c7de5.chunk.js.LICENSE.txt",
+    "static/media/us.885aa064.jpg": "/thirdchallenge/static/media/us.885aa064.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5156548e.js",
-    "static/css/2.d8371ded.chunk.css",
-    "static/js/2.c3efca16.chunk.js",
-    "static/css/main.751dbe08.chunk.css",
-    "static/js/main.d44cfd85.chunk.js"
+    "static/js/runtime-main.5f7fb7fb.js",
+    "static/css/2.f1a90855.chunk.css",
+    "static/js/2.e03c7de5.chunk.js",
+    "static/css/main.38819174.chunk.css",
+    "static/js/main.635d0ba6.chunk.js"
   ]
 }
