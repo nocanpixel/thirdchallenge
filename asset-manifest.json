@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/thirdchallenge/static/css/main.b847a1d7.chunk.css",
-    "main.js": "/thirdchallenge/static/js/main.3cfa92ed.chunk.js",
-    "main.js.map": "/thirdchallenge/static/js/main.3cfa92ed.chunk.js.map",
-    "runtime-main.js": "/thirdchallenge/static/js/runtime-main.c4bc1d52.js",
-    "runtime-main.js.map": "/thirdchallenge/static/js/runtime-main.c4bc1d52.js.map",
+    "main.css": "/thirdchallenge/static/css/main.63492c77.chunk.css",
+    "main.js": "/thirdchallenge/static/js/main.67acd794.chunk.js",
+    "main.js.map": "/thirdchallenge/static/js/main.67acd794.chunk.js.map",
+    "runtime-main.js": "/thirdchallenge/static/js/runtime-main.ae8e6ba1.js",
+    "runtime-main.js.map": "/thirdchallenge/static/js/runtime-main.ae8e6ba1.js.map",
     "static/css/2.fe28256b.chunk.css": "/thirdchallenge/static/css/2.fe28256b.chunk.css",
-    "static/js/2.6f149f74.chunk.js": "/thirdchallenge/static/js/2.6f149f74.chunk.js",
-    "static/js/2.6f149f74.chunk.js.map": "/thirdchallenge/static/js/2.6f149f74.chunk.js.map",
-    "static/js/3.a3a33c9f.chunk.js": "/thirdchallenge/static/js/3.a3a33c9f.chunk.js",
-    "static/js/3.a3a33c9f.chunk.js.map": "/thirdchallenge/static/js/3.a3a33c9f.chunk.js.map",
+    "static/js/2.2aff3927.chunk.js": "/thirdchallenge/static/js/2.2aff3927.chunk.js",
+    "static/js/2.2aff3927.chunk.js.map": "/thirdchallenge/static/js/2.2aff3927.chunk.js.map",
+    "static/js/3.54e4a7f9.chunk.js": "/thirdchallenge/static/js/3.54e4a7f9.chunk.js",
+    "static/js/3.54e4a7f9.chunk.js.map": "/thirdchallenge/static/js/3.54e4a7f9.chunk.js.map",
     "index.html": "/thirdchallenge/index.html",
     "static/css/2.fe28256b.chunk.css.map": "/thirdchallenge/static/css/2.fe28256b.chunk.css.map",
-    "static/css/main.b847a1d7.chunk.css.map": "/thirdchallenge/static/css/main.b847a1d7.chunk.css.map",
-    "static/js/2.6f149f74.chunk.js.LICENSE.txt": "/thirdchallenge/static/js/2.6f149f74.chunk.js.LICENSE.txt",
+    "static/css/main.63492c77.chunk.css.map": "/thirdchallenge/static/css/main.63492c77.chunk.css.map",
+    "static/js/2.2aff3927.chunk.js.LICENSE.txt": "/thirdchallenge/static/js/2.2aff3927.chunk.js.LICENSE.txt",
     "static/media/administrador.png": "/thirdchallenge/static/media/administrador.23bcc1a2.png",
     "static/media/asistente_chef.jpg": "/thirdchallenge/static/media/asistente_chef.1e114aa9.jpg",
     "static/media/asistente_chef2.jpg": "/thirdchallenge/static/media/asistente_chef2.837df6d8.jpg",
@@ -37,14 +37,15 @@
     "static/media/menu8.jpg": "/thirdchallenge/static/media/menu8.8d09f5ea.jpg",
     "static/media/menu9.jpg": "/thirdchallenge/static/media/menu9.33797dfd.jpg",
     "static/media/menuFinal.b8ac642a.PNG": "/thirdchallenge/static/media/menuFinal.b8ac642a.PNG",
-    "static/media/personal1@2x.png": "/thirdchallenge/static/media/personal1@2x.88719fba.png",
-    "static/media/testimonio1@2x.png": "/thirdchallenge/static/media/testimonio1@2x.0d1e9e71.png"
+    "static/media/patterns.png": "/thirdchallenge/static/media/patterns.ea11e92f.png",
+    "static/media/persona1.jpg": "/thirdchallenge/static/media/persona1.eaef9bd7.jpg",
+    "static/media/persona3.jpg": "/thirdchallenge/static/media/persona3.c1d669c5.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c4bc1d52.js",
+    "static/js/runtime-main.ae8e6ba1.js",
     "static/css/2.fe28256b.chunk.css",
-    "static/js/2.6f149f74.chunk.js",
-    "static/css/main.b847a1d7.chunk.css",
-    "static/js/main.3cfa92ed.chunk.js"
+    "static/js/2.2aff3927.chunk.js",
+    "static/css/main.63492c77.chunk.css",
+    "static/js/main.67acd794.chunk.js"
   ]
 }
