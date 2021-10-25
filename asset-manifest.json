@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/thirdchallenge/static/css/main.14adf173.chunk.css",
-    "main.js": "/thirdchallenge/static/js/main.2d28e4d8.chunk.js",
-    "main.js.map": "/thirdchallenge/static/js/main.2d28e4d8.chunk.js.map",
+    "main.css": "/thirdchallenge/static/css/main.b847a1d7.chunk.css",
+    "main.js": "/thirdchallenge/static/js/main.3cfa92ed.chunk.js",
+    "main.js.map": "/thirdchallenge/static/js/main.3cfa92ed.chunk.js.map",
     "runtime-main.js": "/thirdchallenge/static/js/runtime-main.c4bc1d52.js",
     "runtime-main.js.map": "/thirdchallenge/static/js/runtime-main.c4bc1d52.js.map",
     "static/css/2.fe28256b.chunk.css": "/thirdchallenge/static/css/2.fe28256b.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.a3a33c9f.chunk.js.map": "/thirdchallenge/static/js/3.a3a33c9f.chunk.js.map",
     "index.html": "/thirdchallenge/index.html",
     "static/css/2.fe28256b.chunk.css.map": "/thirdchallenge/static/css/2.fe28256b.chunk.css.map",
-    "static/css/main.14adf173.chunk.css.map": "/thirdchallenge/static/css/main.14adf173.chunk.css.map",
+    "static/css/main.b847a1d7.chunk.css.map": "/thirdchallenge/static/css/main.b847a1d7.chunk.css.map",
     "static/js/2.6f149f74.chunk.js.LICENSE.txt": "/thirdchallenge/static/js/2.6f149f74.chunk.js.LICENSE.txt",
     "static/media/administrador.png": "/thirdchallenge/static/media/administrador.23bcc1a2.png",
     "static/media/asistente_chef.jpg": "/thirdchallenge/static/media/asistente_chef.1e114aa9.jpg",
@@ -44,7 +44,7 @@
     "static/js/runtime-main.c4bc1d52.js",
     "static/css/2.fe28256b.chunk.css",
     "static/js/2.6f149f74.chunk.js",
-    "static/css/main.14adf173.chunk.css",
-    "static/js/main.2d28e4d8.chunk.js"
+    "static/css/main.b847a1d7.chunk.css",
+    "static/js/main.3cfa92ed.chunk.js"
   ]
 }
