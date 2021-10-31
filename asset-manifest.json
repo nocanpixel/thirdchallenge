@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/thirdchallenge/static/css/main.d117a3a4.chunk.css",
-    "main.js": "/thirdchallenge/static/js/main.4d0d3f17.chunk.js",
-    "main.js.map": "/thirdchallenge/static/js/main.4d0d3f17.chunk.js.map",
-    "runtime-main.js": "/thirdchallenge/static/js/runtime-main.8dcff250.js",
-    "runtime-main.js.map": "/thirdchallenge/static/js/runtime-main.8dcff250.js.map",
+    "main.css": "/thirdchallenge/static/css/main.bd0b2ac2.chunk.css",
+    "main.js": "/thirdchallenge/static/js/main.cfe125bc.chunk.js",
+    "main.js.map": "/thirdchallenge/static/js/main.cfe125bc.chunk.js.map",
+    "runtime-main.js": "/thirdchallenge/static/js/runtime-main.8eebe441.js",
+    "runtime-main.js.map": "/thirdchallenge/static/js/runtime-main.8eebe441.js.map",
     "static/css/2.af4faa8d.chunk.css": "/thirdchallenge/static/css/2.af4faa8d.chunk.css",
-    "static/js/2.700d086a.chunk.js": "/thirdchallenge/static/js/2.700d086a.chunk.js",
-    "static/js/2.700d086a.chunk.js.map": "/thirdchallenge/static/js/2.700d086a.chunk.js.map",
-    "static/js/3.e5db9970.chunk.js": "/thirdchallenge/static/js/3.e5db9970.chunk.js",
-    "static/js/3.e5db9970.chunk.js.map": "/thirdchallenge/static/js/3.e5db9970.chunk.js.map",
+    "static/js/2.7339eead.chunk.js": "/thirdchallenge/static/js/2.7339eead.chunk.js",
+    "static/js/2.7339eead.chunk.js.map": "/thirdchallenge/static/js/2.7339eead.chunk.js.map",
+    "static/js/3.748b6e24.chunk.js": "/thirdchallenge/static/js/3.748b6e24.chunk.js",
+    "static/js/3.748b6e24.chunk.js.map": "/thirdchallenge/static/js/3.748b6e24.chunk.js.map",
     "index.html": "/thirdchallenge/index.html",
     "static/css/2.af4faa8d.chunk.css.map": "/thirdchallenge/static/css/2.af4faa8d.chunk.css.map",
-    "static/css/main.d117a3a4.chunk.css.map": "/thirdchallenge/static/css/main.d117a3a4.chunk.css.map",
-    "static/js/2.700d086a.chunk.js.LICENSE.txt": "/thirdchallenge/static/js/2.700d086a.chunk.js.LICENSE.txt",
+    "static/css/main.bd0b2ac2.chunk.css.map": "/thirdchallenge/static/css/main.bd0b2ac2.chunk.css.map",
+    "static/js/2.7339eead.chunk.js.LICENSE.txt": "/thirdchallenge/static/js/2.7339eead.chunk.js.LICENSE.txt",
     "static/media/administrador.png": "/thirdchallenge/static/media/administrador.23bcc1a2.png",
     "static/media/asistente_chef.jpg": "/thirdchallenge/static/media/asistente_chef.1e114aa9.jpg",
     "static/media/asistente_chef2.jpg": "/thirdchallenge/static/media/asistente_chef2.837df6d8.jpg",
@@ -38,15 +38,16 @@
     "static/media/menu8.jpg": "/thirdchallenge/static/media/menu8.8d09f5ea.jpg",
     "static/media/menu9.jpg": "/thirdchallenge/static/media/menu9.33797dfd.jpg",
     "static/media/menuFinal.b8ac642a.PNG": "/thirdchallenge/static/media/menuFinal.b8ac642a.PNG",
+    "static/media/patterReservas.png": "/thirdchallenge/static/media/patterReservas.939c7e6a.png",
     "static/media/patterns.png": "/thirdchallenge/static/media/patterns.ea11e92f.png",
     "static/media/persona1.jpg": "/thirdchallenge/static/media/persona1.eaef9bd7.jpg",
     "static/media/persona3.jpg": "/thirdchallenge/static/media/persona3.c1d669c5.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8dcff250.js",
+    "static/js/runtime-main.8eebe441.js",
     "static/css/2.af4faa8d.chunk.css",
-    "static/js/2.700d086a.chunk.js",
-    "static/css/main.d117a3a4.chunk.css",
-    "static/js/main.4d0d3f17.chunk.js"
+    "static/js/2.7339eead.chunk.js",
+    "static/css/main.bd0b2ac2.chunk.css",
+    "static/js/main.cfe125bc.chunk.js"
   ]
 }
